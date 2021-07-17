@@ -1,2 +1,2 @@
-# spiritoftitans
-Spirit of Titans WebSite
+# LP-BlackFriday
+First Challenge of Hiring Coders

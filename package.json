@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.27.4",
+    "gulp": "^4.0.2",
+    "gulp-dart-sass": "^1.0.2",
+    "jquery": "^3.6.0",
+    "jquery.countdown": "^1.2.8",
+    "moment": "^2.29.1",
+    "node-sass": "^6.0.1",
+    "uglify-es": "^3.3.9",
+    "uglify-js": "^3.13.10"
+  },
+  "name": "lp-blackfriday",
+  "description": "First Challenge of Hiring Coders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp-sass": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariemendes/LP-BlackFriday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariemendes/LP-BlackFriday/issues"
+  },
+  "homepage": "https://github.com/mariemendes/LP-BlackFriday#readme"
+}
