@@ -1,0 +1,71 @@
+section {
+    margin: 85px 0;
+}
+#informations {
+    p {
+        text-align: center;
+        margin-bottom: -10px;
+    }
+}
+.about-us {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: flex-end;
+
+    div {
+        width: 45%;
+        text-align: right;
+    }
+}
+#button {
+    display: flex;
+    justify-content: center;
+
+
+    .x-subscription {
+        font-family: 'Raleway', sans-serif;
+        font-size: 35px;
+        font-weight: 400;
+        color: white;
+        background: gray;
+        text-transform: uppercase;
+        border-radius: 20px;
+        padding: 20px;
+        box-shadow: 0 0 10px white;
+        cursor: pointer;
+        }
+}
+
+
+.x-location {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+    div {
+        width: 45%;
+
+        p {
+            width: 90%;
+            text-align: center;
+        }
+    }
+}
+.location-address {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-family: 'Mr Dafoe', cursive;
+    font-weight: 100;
+    font-size: 42px;
+    color: #B60402;
+    text-align: center;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+    color:white;
+    text-align: left;
+    margin: 25px 0;
+}

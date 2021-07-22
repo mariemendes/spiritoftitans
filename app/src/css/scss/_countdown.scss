@@ -1,0 +1,90 @@
+#x-countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#countdown {
+    .x-countdown {
+        border: 1px solid currentColor;
+        border-radius: 20px;
+        width: 40px;
+        margin-left: 7px;
+        box-shadow: inset 0 0 1em currentColor;
+    }
+    div {
+        display: inline-block;
+        line-height: 1;
+        padding: 20px;
+        font-family: "Ropa Sans", sans-serif;
+      }
+      span {
+        display: block;
+        font-size: 10px;
+        color: white;
+      }
+      #days-oceanus {
+        font-size: 30px;
+        color: #00175c;
+      }
+      #hours-oceanus {
+        font-size: 30px;
+        color: #002db3;
+      }
+      #minutes-oceanus {
+        font-size: 30px;
+        color: #295eff;
+      }
+      #seconds-oceanus {
+        font-size: 30px;
+        color: #99b3ff;
+      }
+      #days-theia {
+        font-size: 30px;
+        color: #ff66c4;
+      }
+      #hours-theia {
+        font-size: 30px;
+        color: #e883a1;
+      }
+      #minutes-theia {
+        font-size: 30px;
+        color: #eed0d3;
+      }
+      #seconds-theia {
+        font-size: 30px;
+        color: white;
+      }
+      #days-hyperion {
+        font-size: 30px;
+        color: #e09d00;
+      }
+      #hours-hyperion {
+        font-size: 30px;
+        color: #e0ca00;
+      }
+      #minutes-hyperion {
+        font-size: 30px;
+        color: #ffee52;
+      }
+      #seconds-hyperion {
+        font-size: 30px;
+        color: #fff9c2;
+      }
+      #days-cronos {
+        font-size: 30px;
+        color: #333333;
+      }
+      #hours-cronos {
+        font-size: 30px;
+        color: #707070;
+      }
+      #minutes-cronos {
+        font-size: 30px;
+        color: #a6a6a6;
+      }
+      #seconds-cronos {
+        font-size: 30px;
+        color: #d6d6d6;
+      }
+  }
